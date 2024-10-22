@@ -1,0 +1,71 @@
+[Project]
+FileName=Gongfish Wang Gacha mini-game.dev
+Name=Gongfish Wang Gacha mini-game
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Gongfish_Wang_Gacha_mini-game_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=Gongfish Wang Gacha mini-game.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Gongfish Wang Gacha mini-game.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000000
+UnitCount=2
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=1.0.0.0
+FileDescription=王贡鱼抽卡小游戏
+InternalName=王贡鱼抽卡小游戏
+LegalCopyright=Copyright (C) 2024 Chenghao Zhang,Xuyao Li,Zhengyuan Xu
+LegalTrademarks=王贡鱼抽卡小游戏
+OriginalFilename=王贡鱼抽卡小游戏
+ProductName=王贡鱼抽卡小游戏
+ProductVersion=1.0.0.0
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=Gongfish Wang Gacha mini-game.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=Icon.rc
+Folder=Resources
+Compile=1
+Link=0
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
